@@ -14,7 +14,7 @@ function Contact () {
     </div>
     
     <div class="touch">
-      <h4> Get in Touch </h4>
+      <h4> Get in Touch with us ! </h4>
 
       <div class="addr">
       <h5> ADDRESS </h5>
